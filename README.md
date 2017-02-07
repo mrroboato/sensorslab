@@ -1,5 +1,5 @@
 # sensorslab
-<<<<<<< HEAD
+
 #### CMU Mechatronics 2017 Team A Sensors Lab
 
 
@@ -29,6 +29,3 @@
 
 		$ sudo usermod -a -G dialout <username>
 		$ sudo chmod a+rw /dev/ttyACM0
-=======
-CMU Mechatronics 2017 Sensors Lab
->>>>>>> Initial commit
