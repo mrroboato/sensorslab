@@ -16,7 +16,7 @@ var bunnyId = 0;
 function initCanvas() {
     camera.position.z = 600;
     renderer.setSize(window.innerWidth/2, window.innerHeight/2);
-    document.body.appendChild(renderer.domElement);
+    document.getElementById("imuBunny").appendChild(renderer.domElement);
 }
 
 
